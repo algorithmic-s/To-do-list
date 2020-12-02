@@ -8,7 +8,7 @@ resources used:
 * https://reactjs.org/docs/lists-and-keys.html
 
 Languages used are:
-* react.js (front-end javascript library
+* ReactJS (front-end javascript library
 for building user interfaces or UI components)
 * HTML & CSS
 
